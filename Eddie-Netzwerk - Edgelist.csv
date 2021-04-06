@@ -1,0 +1,11 @@
+from,to,weight,relationship,time
+Eddie,Christian,3,1,1
+Eddie,Luis,3,1,1
+Eddie,Luisa,2,2,2
+Eddie,Jasmin,2,2,2
+Christian,Luis,3,1,1
+Christian,Eddie,3,1,1
+Luis,Christian,3,1,1
+Luisa,Eddie,2,2,2
+Jsamin,Eddie,2,2,2
+Luis,Eddie,3,1,1
